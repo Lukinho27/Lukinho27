@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lukinho27
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Blender and Computer Science
-- 😄 Pronouns: Seriously?
 - ⚡ Fun fact: I fear women
 
 <!---
